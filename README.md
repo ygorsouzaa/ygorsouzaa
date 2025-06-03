@@ -15,11 +15,18 @@ linguagem de programação.
             src="https://custom-icon-badges.demolab.com/github/stars/ygorsouzaa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="">
+    <a href="https://github.com/ygorsouzaa">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/ygorsouzaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/ygorsouzaa/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ygorsouzaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
         />
     </a>
 </p>
