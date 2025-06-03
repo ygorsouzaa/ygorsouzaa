@@ -73,13 +73,11 @@ linguagem de programação.
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=ygorsouzaa&show_icons=true&include_all)commits=true&locale=pt-br"
     />
-</p>
-<p>
-    <img
+    
+<img
     aling="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsouzaa&layout=compact&locale=pt-br"
     />
 </p>
