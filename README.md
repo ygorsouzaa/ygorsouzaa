@@ -32,7 +32,7 @@ linguagem de programação.
 <img 
     alt="HTML"
     title="HTML"
-    width="30px"
+    width="33px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
@@ -40,7 +40,7 @@ linguagem de programação.
     aling="left"
     alt="CSS"
     title="CSS"
-    width="30px"
+    width="33px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
@@ -73,7 +73,7 @@ linguagem de programação.
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=ygorsouzaa&show_icons=true&include_all)commits=true&locale=pt-br"
     />
-    
+
 <img
     aling="left"
     alt="GitHub Stats"
